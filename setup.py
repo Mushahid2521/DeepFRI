@@ -12,7 +12,7 @@ setup(name='DeepFRI',
       install_requires=['numpy==1.18.5',
 #                         'tensorflow-gpu==2.3.1',
                         'networkx==2.4',
-                        'scikit-learn==0.23.1',
+#                         'scikit-learn==0.23.1',
                         'biopython==1.76',
                         ],
       extras_require={
